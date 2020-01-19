@@ -9,9 +9,9 @@ Squamous Cell Carcinoma Drug Testing Analysis
  
 **Findings:**
 --------------
-  -     finding 1   
-  -     finding 2   
-  -     finding 3   
+  -    I'm initially finding that of the 10 drugs tested, only two drugs (Capomulin and Ramicane) actually decreased the size of the tumor.  The tumor increased roughly 44% during the other drug regimen testing. It seems like a large discrepency. 
+  -    finding 2  
+  -    finding 3   
 
 
 
